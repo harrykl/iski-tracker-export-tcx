@@ -1,5 +1,7 @@
 # iski-tracker-export-tcx
 
+export as .gpx works
+
 in work ---- Export-Script for iSki Tracker as .tcx
 
 Thanks to vicziani for the script ----- https://gist.github.com/vicziani/2b099734e8847a26ef0e8ab8d76c33e0
